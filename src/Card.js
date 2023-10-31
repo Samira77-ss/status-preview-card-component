@@ -36,7 +36,7 @@ function Card() {
       <footer>
         This page was coded by Samira Seyfi
         <a
-          href="https://github.com/Samira77-ss/challenge-order"
+          href="https://github.com/Samira77-ss/status-preview-card-component"
           target="_blank"
           alt="GithHub Profile"
           rel="noreferrer"
@@ -45,7 +45,7 @@ function Card() {
         </a>
         , and hosted on
         <a
-          href="https://resonant-medovik-e01702.netlify.app"
+          href="https://fastidious-queijadas-ec3eeb.netlify.app"
           alt="Netlify link"
           target="_blank"
           rel="noreferrer"
