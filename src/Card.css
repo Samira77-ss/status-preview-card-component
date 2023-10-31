@@ -17,6 +17,13 @@ body {
 html {
   font-size: 62.5%;
 }
+footer {
+  text-align: center;
+  margin-top: 30px;
+
+  font-size: 12px;
+  color: #fff;
+}
 .card h1 {
   font-size: 25px;
   color: #fff;
@@ -122,7 +129,7 @@ html {
   .card h1 {
     font-size: 30px;
     position: relative;
-    top: -30px;
+    top: -20px;
   }
   .card .features {
     flex-direction: row;
