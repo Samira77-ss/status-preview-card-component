@@ -54,7 +54,7 @@ footer {
   overflow: hidden;
 }
 .card .image {
-  background-image: url("https://github.com/amirhossein-peyvand/status-preview-card-component/blob/main/src/assets/image-header-mobile.jpg?raw=true");
+  background-image: url("./image/image-header-mobile.jpg");
   min-height: 35vh;
   background-position: center;
   background-size: cover;
@@ -111,7 +111,7 @@ footer {
     min-height: 55vh;
   }
   .card .image {
-    background-image: url("https://github.com/amirhossein-peyvand/status-preview-card-component/blob/main/src/assets/image-header-desktop.jpg?raw=true");
+    background-image: url("./image/image-header-desktop.jpg");
     width: 50%;
   }
   .card .image::after {
